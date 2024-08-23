@@ -33,4 +33,5 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/Dhanush111/https-github.com-Dhanush111/tree/master/0007-reverse-integer) |
+| [2238-a-number-after-a-double-reversal](https://github.com/Dhanush111/https-github.com-Dhanush111/tree/master/2238-a-number-after-a-double-reversal) |
 <!---LeetCode Topics End-->
