@@ -16,6 +16,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## String
 |  |
 | ------- |
+| [0058-length-of-last-word](https://github.com/Dhanush111/https-github.com-Dhanush111/tree/master/0058-length-of-last-word) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/Dhanush111/https-github.com-Dhanush111/tree/master/2231-find-first-palindromic-string-in-the-array) |
 ## Hash Table
 |  |
