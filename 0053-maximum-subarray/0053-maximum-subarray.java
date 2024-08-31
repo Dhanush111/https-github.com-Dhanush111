@@ -9,7 +9,7 @@ class Solution {
                sum=0;
            }
        }
-       System.gc();
+    //    System.gc();
        return maxsum;
     }
 }
