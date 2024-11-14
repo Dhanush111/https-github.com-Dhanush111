@@ -14,6 +14,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Two Pointers
 |  |
 | ------- |
+| [0151-reverse-words-in-a-string](https://github.com/Dhanush111/https-github.com-Dhanush111/tree/master/0151-reverse-words-in-a-string) |
 | [0234-palindrome-linked-list](https://github.com/Dhanush111/https-github.com-Dhanush111/tree/master/0234-palindrome-linked-list) |
 | [1894-merge-strings-alternately](https://github.com/Dhanush111/https-github.com-Dhanush111/tree/master/1894-merge-strings-alternately) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/Dhanush111/https-github.com-Dhanush111/tree/master/2231-find-first-palindromic-string-in-the-array) |
@@ -21,6 +22,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0058-length-of-last-word](https://github.com/Dhanush111/https-github.com-Dhanush111/tree/master/0058-length-of-last-word) |
+| [0151-reverse-words-in-a-string](https://github.com/Dhanush111/https-github.com-Dhanush111/tree/master/0151-reverse-words-in-a-string) |
 | [1894-merge-strings-alternately](https://github.com/Dhanush111/https-github.com-Dhanush111/tree/master/1894-merge-strings-alternately) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/Dhanush111/https-github.com-Dhanush111/tree/master/2231-find-first-palindromic-string-in-the-array) |
 ## Hash Table
