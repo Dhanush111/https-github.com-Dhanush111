@@ -10,6 +10,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0053-maximum-subarray](https://github.com/Dhanush111/https-github.com-Dhanush111/tree/master/0053-maximum-subarray) |
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/Dhanush111/https-github.com-Dhanush111/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Dhanush111/https-github.com-Dhanush111/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [1833-find-the-highest-altitude](https://github.com/Dhanush111/https-github.com-Dhanush111/tree/master/1833-find-the-highest-altitude) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/Dhanush111/https-github.com-Dhanush111/tree/master/2231-find-first-palindromic-string-in-the-array) |
 ## Two Pointers
 |  |
@@ -63,4 +64,8 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/Dhanush111/https-github.com-Dhanush111/tree/master/0234-palindrome-linked-list) |
+## Prefix Sum
+|  |
+| ------- |
+| [1833-find-the-highest-altitude](https://github.com/Dhanush111/https-github.com-Dhanush111/tree/master/1833-find-the-highest-altitude) |
 <!---LeetCode Topics End-->
