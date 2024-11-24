@@ -24,6 +24,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Dhanush111/https-github.com-Dhanush111/tree/master/0013-roman-to-integer) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Dhanush111/https-github.com-Dhanush111/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/Dhanush111/https-github.com-Dhanush111/tree/master/0058-length-of-last-word) |
 | [0151-reverse-words-in-a-string](https://github.com/Dhanush111/https-github.com-Dhanush111/tree/master/0151-reverse-words-in-a-string) |
@@ -33,6 +34,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Dhanush111/https-github.com-Dhanush111/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/Dhanush111/https-github.com-Dhanush111/tree/master/0013-roman-to-integer) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Dhanush111/https-github.com-Dhanush111/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 ## Sorting
 |  |
@@ -46,6 +48,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/Dhanush111/https-github.com-Dhanush111/tree/master/0007-reverse-integer) |
+| [0013-roman-to-integer](https://github.com/Dhanush111/https-github.com-Dhanush111/tree/master/0013-roman-to-integer) |
 | [2238-a-number-after-a-double-reversal](https://github.com/Dhanush111/https-github.com-Dhanush111/tree/master/2238-a-number-after-a-double-reversal) |
 ## Divide and Conquer
 |  |
