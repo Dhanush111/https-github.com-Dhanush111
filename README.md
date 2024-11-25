@@ -34,6 +34,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0151-reverse-words-in-a-string](https://github.com/Dhanush111/https-github.com-Dhanush111/tree/master/0151-reverse-words-in-a-string) |
 | [0782-jewels-and-stones](https://github.com/Dhanush111/https-github.com-Dhanush111/tree/master/0782-jewels-and-stones) |
 | [1205-defanging-an-ip-address](https://github.com/Dhanush111/https-github.com-Dhanush111/tree/master/1205-defanging-an-ip-address) |
+| [1797-goal-parser-interpretation](https://github.com/Dhanush111/https-github.com-Dhanush111/tree/master/1797-goal-parser-interpretation) |
 | [1894-merge-strings-alternately](https://github.com/Dhanush111/https-github.com-Dhanush111/tree/master/1894-merge-strings-alternately) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/Dhanush111/https-github.com-Dhanush111/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [3412-permutation-difference-between-two-strings](https://github.com/Dhanush111/https-github.com-Dhanush111/tree/master/3412-permutation-difference-between-two-strings) |
