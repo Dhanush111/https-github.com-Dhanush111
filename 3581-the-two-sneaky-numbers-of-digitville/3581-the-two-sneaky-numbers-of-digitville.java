@@ -14,6 +14,7 @@ class Solution {
                 ar[i++]=e.getKey();
             }
         }
-        return ar;
+        // System.gc();
+        return ar; 
     }
 }
