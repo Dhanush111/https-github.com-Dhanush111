@@ -15,6 +15,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1580-shuffle-the-array](https://github.com/Dhanush111/https-github.com-Dhanush111/tree/master/1580-shuffle-the-array) |
 | [1833-find-the-highest-altitude](https://github.com/Dhanush111/https-github.com-Dhanush111/tree/master/1833-find-the-highest-altitude) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/Dhanush111/https-github.com-Dhanush111/tree/master/2231-find-first-palindromic-string-in-the-array) |
+| [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Dhanush111/https-github.com-Dhanush111/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Dhanush111/https-github.com-Dhanush111/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Dhanush111/https-github.com-Dhanush111/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## Two Pointers
@@ -25,6 +26,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0234-palindrome-linked-list](https://github.com/Dhanush111/https-github.com-Dhanush111/tree/master/0234-palindrome-linked-list) |
 | [1894-merge-strings-alternately](https://github.com/Dhanush111/https-github.com-Dhanush111/tree/master/1894-merge-strings-alternately) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/Dhanush111/https-github.com-Dhanush111/tree/master/2231-find-first-palindromic-string-in-the-array) |
+| [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Dhanush111/https-github.com-Dhanush111/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## String
 |  |
 | ------- |
@@ -51,6 +53,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Dhanush111/https-github.com-Dhanush111/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Dhanush111/https-github.com-Dhanush111/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Counting
 |  |
 | ------- |
@@ -99,4 +102,8 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [2491-smallest-even-multiple](https://github.com/Dhanush111/https-github.com-Dhanush111/tree/master/2491-smallest-even-multiple) |
+## Binary Search
+|  |
+| ------- |
+| [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Dhanush111/https-github.com-Dhanush111/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 <!---LeetCode Topics End-->
