@@ -11,6 +11,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0238-product-of-array-except-self](https://github.com/Dhanush111/https-github.com-Dhanush111/tree/master/0238-product-of-array-except-self) |
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/Dhanush111/https-github.com-Dhanush111/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Dhanush111/https-github.com-Dhanush111/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [1528-kids-with-the-greatest-number-of-candies](https://github.com/Dhanush111/https-github.com-Dhanush111/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1580-shuffle-the-array](https://github.com/Dhanush111/https-github.com-Dhanush111/tree/master/1580-shuffle-the-array) |
 | [1833-find-the-highest-altitude](https://github.com/Dhanush111/https-github.com-Dhanush111/tree/master/1833-find-the-highest-altitude) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/Dhanush111/https-github.com-Dhanush111/tree/master/2231-find-first-palindromic-string-in-the-array) |
