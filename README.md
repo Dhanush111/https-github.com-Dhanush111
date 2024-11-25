@@ -13,6 +13,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Dhanush111/https-github.com-Dhanush111/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1833-find-the-highest-altitude](https://github.com/Dhanush111/https-github.com-Dhanush111/tree/master/1833-find-the-highest-altitude) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/Dhanush111/https-github.com-Dhanush111/tree/master/2231-find-first-palindromic-string-in-the-array) |
+| [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Dhanush111/https-github.com-Dhanush111/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 ## Two Pointers
 |  |
 | ------- |
@@ -52,6 +53,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0013-roman-to-integer](https://github.com/Dhanush111/https-github.com-Dhanush111/tree/master/0013-roman-to-integer) |
 | [2238-a-number-after-a-double-reversal](https://github.com/Dhanush111/https-github.com-Dhanush111/tree/master/2238-a-number-after-a-double-reversal) |
 | [2812-find-the-maximum-achievable-number](https://github.com/Dhanush111/https-github.com-Dhanush111/tree/master/2812-find-the-maximum-achievable-number) |
+| [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Dhanush111/https-github.com-Dhanush111/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 ## Divide and Conquer
 |  |
 | ------- |
