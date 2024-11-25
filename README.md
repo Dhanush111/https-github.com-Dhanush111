@@ -57,6 +57,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0007-reverse-integer](https://github.com/Dhanush111/https-github.com-Dhanush111/tree/master/0007-reverse-integer) |
 | [0013-roman-to-integer](https://github.com/Dhanush111/https-github.com-Dhanush111/tree/master/0013-roman-to-integer) |
 | [2238-a-number-after-a-double-reversal](https://github.com/Dhanush111/https-github.com-Dhanush111/tree/master/2238-a-number-after-a-double-reversal) |
+| [2491-smallest-even-multiple](https://github.com/Dhanush111/https-github.com-Dhanush111/tree/master/2491-smallest-even-multiple) |
 | [2812-find-the-maximum-achievable-number](https://github.com/Dhanush111/https-github.com-Dhanush111/tree/master/2812-find-the-maximum-achievable-number) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/Dhanush111/https-github.com-Dhanush111/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Dhanush111/https-github.com-Dhanush111/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
@@ -90,4 +91,8 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Dhanush111/https-github.com-Dhanush111/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Number Theory
+|  |
+| ------- |
+| [2491-smallest-even-multiple](https://github.com/Dhanush111/https-github.com-Dhanush111/tree/master/2491-smallest-even-multiple) |
 <!---LeetCode Topics End-->
