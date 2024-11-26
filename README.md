@@ -17,6 +17,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1833-find-the-highest-altitude](https://github.com/Dhanush111/https-github.com-Dhanush111/tree/master/1833-find-the-highest-altitude) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/Dhanush111/https-github.com-Dhanush111/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/Dhanush111/https-github.com-Dhanush111/tree/master/2231-find-first-palindromic-string-in-the-array) |
+| [2714-left-and-right-sum-differences](https://github.com/Dhanush111/https-github.com-Dhanush111/tree/master/2714-left-and-right-sum-differences) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Dhanush111/https-github.com-Dhanush111/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Dhanush111/https-github.com-Dhanush111/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Dhanush111/https-github.com-Dhanush111/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
@@ -101,6 +102,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Dhanush111/https-github.com-Dhanush111/tree/master/0238-product-of-array-except-self) |
 | [1833-find-the-highest-altitude](https://github.com/Dhanush111/https-github.com-Dhanush111/tree/master/1833-find-the-highest-altitude) |
+| [2714-left-and-right-sum-differences](https://github.com/Dhanush111/https-github.com-Dhanush111/tree/master/2714-left-and-right-sum-differences) |
 ## String Matching
 |  |
 | ------- |
