@@ -12,6 +12,7 @@ class Solution {
         for(int i=0;i<nums.length;i++){
             sol[i]=Math.abs(prefix[i]-suffix[i]);
         }
+        // System.gc();
         return sol;
     }
 }
