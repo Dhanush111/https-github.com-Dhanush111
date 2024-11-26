@@ -34,6 +34,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Dhanush111/https-github.com-Dhanush111/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/Dhanush111/https-github.com-Dhanush111/tree/master/0058-length-of-last-word) |
 | [0151-reverse-words-in-a-string](https://github.com/Dhanush111/https-github.com-Dhanush111/tree/master/0151-reverse-words-in-a-string) |
+| [0459-repeated-substring-pattern](https://github.com/Dhanush111/https-github.com-Dhanush111/tree/master/0459-repeated-substring-pattern) |
 | [0782-jewels-and-stones](https://github.com/Dhanush111/https-github.com-Dhanush111/tree/master/0782-jewels-and-stones) |
 | [1205-defanging-an-ip-address](https://github.com/Dhanush111/https-github.com-Dhanush111/tree/master/1205-defanging-an-ip-address) |
 | [1797-goal-parser-interpretation](https://github.com/Dhanush111/https-github.com-Dhanush111/tree/master/1797-goal-parser-interpretation) |
@@ -98,6 +99,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Dhanush111/https-github.com-Dhanush111/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0459-repeated-substring-pattern](https://github.com/Dhanush111/https-github.com-Dhanush111/tree/master/0459-repeated-substring-pattern) |
 ## Number Theory
 |  |
 | ------- |
