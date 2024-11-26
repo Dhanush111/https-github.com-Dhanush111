@@ -19,6 +19,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Dhanush111/https-github.com-Dhanush111/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Dhanush111/https-github.com-Dhanush111/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Dhanush111/https-github.com-Dhanush111/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
+| [3582-find-indices-of-stable-mountains](https://github.com/Dhanush111/https-github.com-Dhanush111/tree/master/3582-find-indices-of-stable-mountains) |
 ## Two Pointers
 |  |
 | ------- |
