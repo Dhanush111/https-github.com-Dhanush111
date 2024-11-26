@@ -114,4 +114,8 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Dhanush111/https-github.com-Dhanush111/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
+## Graph
+|  |
+| ------- |
+| [1916-find-center-of-star-graph](https://github.com/Dhanush111/https-github.com-Dhanush111/tree/master/1916-find-center-of-star-graph) |
 <!---LeetCode Topics End-->
