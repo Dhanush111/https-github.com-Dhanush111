@@ -47,6 +47,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/Dhanush111/https-github.com-Dhanush111/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/Dhanush111/https-github.com-Dhanush111/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [3194-find-words-containing-character](https://github.com/Dhanush111/https-github.com-Dhanush111/tree/master/3194-find-words-containing-character) |
+| [3379-score-of-a-string](https://github.com/Dhanush111/https-github.com-Dhanush111/tree/master/3379-score-of-a-string) |
 | [3412-permutation-difference-between-two-strings](https://github.com/Dhanush111/https-github.com-Dhanush111/tree/master/3412-permutation-difference-between-two-strings) |
 ## Hash Table
 |  |
