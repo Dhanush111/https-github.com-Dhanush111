@@ -65,6 +65,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Dhanush111/https-github.com-Dhanush111/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Dhanush111/https-github.com-Dhanush111/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Dhanush111/https-github.com-Dhanush111/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Counting
 |  |
@@ -77,6 +78,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0013-roman-to-integer](https://github.com/Dhanush111/https-github.com-Dhanush111/tree/master/0013-roman-to-integer) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Dhanush111/https-github.com-Dhanush111/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [2238-a-number-after-a-double-reversal](https://github.com/Dhanush111/https-github.com-Dhanush111/tree/master/2238-a-number-after-a-double-reversal) |
+| [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Dhanush111/https-github.com-Dhanush111/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2491-smallest-even-multiple](https://github.com/Dhanush111/https-github.com-Dhanush111/tree/master/2491-smallest-even-multiple) |
 | [2556-convert-the-temperature](https://github.com/Dhanush111/https-github.com-Dhanush111/tree/master/2556-convert-the-temperature) |
 | [2812-find-the-maximum-achievable-number](https://github.com/Dhanush111/https-github.com-Dhanush111/tree/master/2812-find-the-maximum-achievable-number) |
@@ -127,4 +129,8 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1916-find-center-of-star-graph](https://github.com/Dhanush111/https-github.com-Dhanush111/tree/master/1916-find-center-of-star-graph) |
+## Greedy
+|  |
+| ------- |
+| [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Dhanush111/https-github.com-Dhanush111/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
 <!---LeetCode Topics End-->
