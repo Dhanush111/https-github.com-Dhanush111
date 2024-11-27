@@ -10,6 +10,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0053-maximum-subarray](https://github.com/Dhanush111/https-github.com-Dhanush111/tree/master/0053-maximum-subarray) |
 | [0238-product-of-array-except-self](https://github.com/Dhanush111/https-github.com-Dhanush111/tree/master/0238-product-of-array-except-self) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Dhanush111/https-github.com-Dhanush111/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0485-max-consecutive-ones](https://github.com/Dhanush111/https-github.com-Dhanush111/tree/master/0485-max-consecutive-ones) |
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/Dhanush111/https-github.com-Dhanush111/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Dhanush111/https-github.com-Dhanush111/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/Dhanush111/https-github.com-Dhanush111/tree/master/1528-kids-with-the-greatest-number-of-candies) |
