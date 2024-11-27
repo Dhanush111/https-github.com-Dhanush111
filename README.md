@@ -15,6 +15,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/Dhanush111/https-github.com-Dhanush111/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1580-shuffle-the-array](https://github.com/Dhanush111/https-github.com-Dhanush111/tree/master/1580-shuffle-the-array) |
 | [1833-find-the-highest-altitude](https://github.com/Dhanush111/https-github.com-Dhanush111/tree/master/1833-find-the-highest-altitude) |
+| [1944-truncate-sentence](https://github.com/Dhanush111/https-github.com-Dhanush111/tree/master/1944-truncate-sentence) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/Dhanush111/https-github.com-Dhanush111/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/Dhanush111/https-github.com-Dhanush111/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2714-left-and-right-sum-differences](https://github.com/Dhanush111/https-github.com-Dhanush111/tree/master/2714-left-and-right-sum-differences) |
@@ -45,6 +46,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1205-defanging-an-ip-address](https://github.com/Dhanush111/https-github.com-Dhanush111/tree/master/1205-defanging-an-ip-address) |
 | [1797-goal-parser-interpretation](https://github.com/Dhanush111/https-github.com-Dhanush111/tree/master/1797-goal-parser-interpretation) |
 | [1894-merge-strings-alternately](https://github.com/Dhanush111/https-github.com-Dhanush111/tree/master/1894-merge-strings-alternately) |
+| [1944-truncate-sentence](https://github.com/Dhanush111/https-github.com-Dhanush111/tree/master/1944-truncate-sentence) |
 | [2128-reverse-prefix-of-word](https://github.com/Dhanush111/https-github.com-Dhanush111/tree/master/2128-reverse-prefix-of-word) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/Dhanush111/https-github.com-Dhanush111/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/Dhanush111/https-github.com-Dhanush111/tree/master/2231-find-first-palindromic-string-in-the-array) |
