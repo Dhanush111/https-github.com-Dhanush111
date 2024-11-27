@@ -76,6 +76,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Dhanush111/https-github.com-Dhanush111/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [2238-a-number-after-a-double-reversal](https://github.com/Dhanush111/https-github.com-Dhanush111/tree/master/2238-a-number-after-a-double-reversal) |
 | [2491-smallest-even-multiple](https://github.com/Dhanush111/https-github.com-Dhanush111/tree/master/2491-smallest-even-multiple) |
+| [2556-convert-the-temperature](https://github.com/Dhanush111/https-github.com-Dhanush111/tree/master/2556-convert-the-temperature) |
 | [2812-find-the-maximum-achievable-number](https://github.com/Dhanush111/https-github.com-Dhanush111/tree/master/2812-find-the-maximum-achievable-number) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/Dhanush111/https-github.com-Dhanush111/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Dhanush111/https-github.com-Dhanush111/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
