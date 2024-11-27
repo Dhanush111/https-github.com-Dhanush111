@@ -30,6 +30,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0151-reverse-words-in-a-string](https://github.com/Dhanush111/https-github.com-Dhanush111/tree/master/0151-reverse-words-in-a-string) |
 | [0234-palindrome-linked-list](https://github.com/Dhanush111/https-github.com-Dhanush111/tree/master/0234-palindrome-linked-list) |
 | [1894-merge-strings-alternately](https://github.com/Dhanush111/https-github.com-Dhanush111/tree/master/1894-merge-strings-alternately) |
+| [2128-reverse-prefix-of-word](https://github.com/Dhanush111/https-github.com-Dhanush111/tree/master/2128-reverse-prefix-of-word) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/Dhanush111/https-github.com-Dhanush111/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Dhanush111/https-github.com-Dhanush111/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## String
@@ -44,6 +45,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1205-defanging-an-ip-address](https://github.com/Dhanush111/https-github.com-Dhanush111/tree/master/1205-defanging-an-ip-address) |
 | [1797-goal-parser-interpretation](https://github.com/Dhanush111/https-github.com-Dhanush111/tree/master/1797-goal-parser-interpretation) |
 | [1894-merge-strings-alternately](https://github.com/Dhanush111/https-github.com-Dhanush111/tree/master/1894-merge-strings-alternately) |
+| [2128-reverse-prefix-of-word](https://github.com/Dhanush111/https-github.com-Dhanush111/tree/master/2128-reverse-prefix-of-word) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/Dhanush111/https-github.com-Dhanush111/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/Dhanush111/https-github.com-Dhanush111/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [3194-find-words-containing-character](https://github.com/Dhanush111/https-github.com-Dhanush111/tree/master/3194-find-words-containing-character) |
@@ -97,6 +99,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/Dhanush111/https-github.com-Dhanush111/tree/master/0234-palindrome-linked-list) |
+| [2128-reverse-prefix-of-word](https://github.com/Dhanush111/https-github.com-Dhanush111/tree/master/2128-reverse-prefix-of-word) |
 ## Recursion
 |  |
 | ------- |
