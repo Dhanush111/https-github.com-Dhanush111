@@ -54,6 +54,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [3194-find-words-containing-character](https://github.com/Dhanush111/https-github.com-Dhanush111/tree/master/3194-find-words-containing-character) |
 | [3379-score-of-a-string](https://github.com/Dhanush111/https-github.com-Dhanush111/tree/master/3379-score-of-a-string) |
 | [3412-permutation-difference-between-two-strings](https://github.com/Dhanush111/https-github.com-Dhanush111/tree/master/3412-permutation-difference-between-two-strings) |
+| [3617-find-the-original-typed-string-i](https://github.com/Dhanush111/https-github.com-Dhanush111/tree/master/3617-find-the-original-typed-string-i) |
 ## Hash Table
 |  |
 | ------- |
