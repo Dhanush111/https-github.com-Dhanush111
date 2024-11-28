@@ -51,6 +51,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2128-reverse-prefix-of-word](https://github.com/Dhanush111/https-github.com-Dhanush111/tree/master/2128-reverse-prefix-of-word) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/Dhanush111/https-github.com-Dhanush111/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/Dhanush111/https-github.com-Dhanush111/tree/master/2231-find-first-palindromic-string-in-the-array) |
+| [2886-faulty-keyboard](https://github.com/Dhanush111/https-github.com-Dhanush111/tree/master/2886-faulty-keyboard) |
 | [3194-find-words-containing-character](https://github.com/Dhanush111/https-github.com-Dhanush111/tree/master/3194-find-words-containing-character) |
 | [3379-score-of-a-string](https://github.com/Dhanush111/https-github.com-Dhanush111/tree/master/3379-score-of-a-string) |
 | [3412-permutation-difference-between-two-strings](https://github.com/Dhanush111/https-github.com-Dhanush111/tree/master/3412-permutation-difference-between-two-strings) |
@@ -137,4 +138,8 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Dhanush111/https-github.com-Dhanush111/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
+## Simulation
+|  |
+| ------- |
+| [2886-faulty-keyboard](https://github.com/Dhanush111/https-github.com-Dhanush111/tree/master/2886-faulty-keyboard) |
 <!---LeetCode Topics End-->
