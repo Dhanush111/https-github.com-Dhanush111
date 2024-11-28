@@ -13,9 +13,6 @@ class Solution {
                 sb.insert(0,s.charAt(i));
             }
        } 
-       if(!found){
-        return sb.reverse().toString();
-       }
-       return sb.toString();
+       return found ? sb.toString():sb.reverse().toString();
     }
 }
