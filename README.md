@@ -9,6 +9,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0001-two-sum](https://github.com/Dhanush111/https-github.com-Dhanush111/tree/master/0001-two-sum) |
 | [0053-maximum-subarray](https://github.com/Dhanush111/https-github.com-Dhanush111/tree/master/0053-maximum-subarray) |
 | [0238-product-of-array-except-self](https://github.com/Dhanush111/https-github.com-Dhanush111/tree/master/0238-product-of-array-except-self) |
+| [0349-intersection-of-two-arrays](https://github.com/Dhanush111/https-github.com-Dhanush111/tree/master/0349-intersection-of-two-arrays) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Dhanush111/https-github.com-Dhanush111/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/Dhanush111/https-github.com-Dhanush111/tree/master/0485-max-consecutive-ones) |
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/Dhanush111/https-github.com-Dhanush111/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
@@ -32,6 +33,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0151-reverse-words-in-a-string](https://github.com/Dhanush111/https-github.com-Dhanush111/tree/master/0151-reverse-words-in-a-string) |
 | [0234-palindrome-linked-list](https://github.com/Dhanush111/https-github.com-Dhanush111/tree/master/0234-palindrome-linked-list) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Dhanush111/https-github.com-Dhanush111/tree/master/0345-reverse-vowels-of-a-string) |
+| [0349-intersection-of-two-arrays](https://github.com/Dhanush111/https-github.com-Dhanush111/tree/master/0349-intersection-of-two-arrays) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Dhanush111/https-github.com-Dhanush111/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0953-reverse-only-letters](https://github.com/Dhanush111/https-github.com-Dhanush111/tree/master/0953-reverse-only-letters) |
 | [1894-merge-strings-alternately](https://github.com/Dhanush111/https-github.com-Dhanush111/tree/master/1894-merge-strings-alternately) |
@@ -67,6 +69,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0001-two-sum](https://github.com/Dhanush111/https-github.com-Dhanush111/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/Dhanush111/https-github.com-Dhanush111/tree/master/0013-roman-to-integer) |
+| [0349-intersection-of-two-arrays](https://github.com/Dhanush111/https-github.com-Dhanush111/tree/master/0349-intersection-of-two-arrays) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Dhanush111/https-github.com-Dhanush111/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0782-jewels-and-stones](https://github.com/Dhanush111/https-github.com-Dhanush111/tree/master/0782-jewels-and-stones) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Dhanush111/https-github.com-Dhanush111/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
@@ -75,6 +78,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Sorting
 |  |
 | ------- |
+| [0349-intersection-of-two-arrays](https://github.com/Dhanush111/https-github.com-Dhanush111/tree/master/0349-intersection-of-two-arrays) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Dhanush111/https-github.com-Dhanush111/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Dhanush111/https-github.com-Dhanush111/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Dhanush111/https-github.com-Dhanush111/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
@@ -135,6 +139,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Binary Search
 |  |
 | ------- |
+| [0349-intersection-of-two-arrays](https://github.com/Dhanush111/https-github.com-Dhanush111/tree/master/0349-intersection-of-two-arrays) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Dhanush111/https-github.com-Dhanush111/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Graph
 |  |
