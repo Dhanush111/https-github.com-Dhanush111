@@ -9,6 +9,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0001-two-sum](https://github.com/Dhanush111/https-github.com-Dhanush111/tree/master/0001-two-sum) |
 | [0053-maximum-subarray](https://github.com/Dhanush111/https-github.com-Dhanush111/tree/master/0053-maximum-subarray) |
 | [0238-product-of-array-except-self](https://github.com/Dhanush111/https-github.com-Dhanush111/tree/master/0238-product-of-array-except-self) |
+| [0287-find-the-duplicate-number](https://github.com/Dhanush111/https-github.com-Dhanush111/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Dhanush111/https-github.com-Dhanush111/tree/master/0349-intersection-of-two-arrays) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Dhanush111/https-github.com-Dhanush111/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/Dhanush111/https-github.com-Dhanush111/tree/master/0485-max-consecutive-ones) |
@@ -32,6 +33,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Dhanush111/https-github.com-Dhanush111/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0151-reverse-words-in-a-string](https://github.com/Dhanush111/https-github.com-Dhanush111/tree/master/0151-reverse-words-in-a-string) |
 | [0234-palindrome-linked-list](https://github.com/Dhanush111/https-github.com-Dhanush111/tree/master/0234-palindrome-linked-list) |
+| [0287-find-the-duplicate-number](https://github.com/Dhanush111/https-github.com-Dhanush111/tree/master/0287-find-the-duplicate-number) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Dhanush111/https-github.com-Dhanush111/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/Dhanush111/https-github.com-Dhanush111/tree/master/0349-intersection-of-two-arrays) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Dhanush111/https-github.com-Dhanush111/tree/master/0557-reverse-words-in-a-string-iii) |
@@ -139,6 +141,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Binary Search
 |  |
 | ------- |
+| [0287-find-the-duplicate-number](https://github.com/Dhanush111/https-github.com-Dhanush111/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Dhanush111/https-github.com-Dhanush111/tree/master/0349-intersection-of-two-arrays) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Dhanush111/https-github.com-Dhanush111/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Graph
@@ -153,4 +156,8 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [2886-faulty-keyboard](https://github.com/Dhanush111/https-github.com-Dhanush111/tree/master/2886-faulty-keyboard) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/Dhanush111/https-github.com-Dhanush111/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
